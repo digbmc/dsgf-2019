@@ -1,0 +1,53 @@
+---
+title: syllabus dsgf 2019-20
+
+---
+
+# Schedule Fall 2019
+
+Thursdays 10:00 AM - 12:00 PM
+
+## October 24 - [Introductions](/10-24-intro.md)
+
+1. Intro & ice-breaker
+2. Logistics and expectations for the fellowship program
+3. Schedule
+4. Goals - hopes, worries, SMART goals
+5. Introduction to Digital Scholarship slides
+6. Homework for next time
+
+## November 7 - Command line
+
+## November 21 - DS in your discipline
+
+## December 5 - html/css/domains
+
+## December 19 - Git & GitHub
+
+## TBD: Showcase
+
+# Spring 2020
+Note: dates and meeting times may change
+
+## January 23 - Digital Pedagogy
+
+## February 6 - Project management
+
+## February 20 - TBA
+
+## March 5 - TBA
+
+## March 19 - TBA
+
+## April 2 - TBA
+
+## April 16 - TBA
+
+## April 30
+
+Options:
+- Data management
+- Digital archives and exhibitions
+- GIS
+- Machine learning
+- 3D/immersive digital scholarship
