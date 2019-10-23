@@ -6,6 +6,7 @@ title: syllabus dsgf 2019-20
 # Schedule Fall 2019
 
 Thursdays 10:00 AM - 12:00 PM
+Digital Media Lab
 
 ## October 24 - [Introductions](/10-24-intro.md)
 
@@ -20,6 +21,7 @@ Thursdays 10:00 AM - 12:00 PM
 ## November 21 - DS in your discipline
 
 ## December 5 - html/css/domains
+Dr. Alicia Peaker, Director of DSCMDCM
 
 ## December 19 - Git & GitHub
 
