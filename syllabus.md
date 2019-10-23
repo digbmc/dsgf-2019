@@ -13,8 +13,7 @@ Thursdays 10:00 AM - 12:00 PM
 2. Logistics and expectations for the fellowship program
 3. Schedule
 4. Goals - hopes, worries, SMART goals
-5. Introduction to Digital Scholarship slides
-6. Homework for next time
+5. Introduction to Digital Scholarship
 
 ## November 7 - Command line
 
