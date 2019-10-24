@@ -5,7 +5,7 @@ You will receive a stipend of $1000, paid in two installments. You will be expec
 - Attend all biweekly meetings this semester. If you must miss a meeting, let Alice know ASAP, and we will discuss a plan to 'make up' this time.
 - Prepare for the meetings.
 - In consultation with Alice and your cohort, propose 2 topics for undergraduate workshops to be delivered in the spring and begin building the necessary skills to teach them.
-- Prepare a short presentation for the DS Showcase in December or January
+- Prepare a short presentation for the DS Showcase in December or January.
 - Work towards individual professional development and learning goals.
 - Continue participating in the program in the Spring.
 
@@ -21,5 +21,3 @@ Your other duties will depend upon the needs of the DS department and may includ
 - Assisting with DS instruction, consultations, and events
 - Holding 'office hours'
 - Preparing materials for the DS website  
-
-## Goals and interests

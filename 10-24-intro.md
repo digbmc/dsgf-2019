@@ -31,11 +31,12 @@ Alice McGrath, Digital Scholarship Specialist
 
 BMC [Digital Competencies Framework](https://www.brynmawr.edu/digitalcompetencies)
 
-What is digital scholarship?
+What is digital scholarship? [slides](http://bit.ly/dsgf-2019)
 
 ### For next time
 - [ ] Watch all 6 [Code.org](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) videos on computers
 - [ ] Email Alice a bio and headshot for the DS website
 - [ ] Sign up for a GitHub account
 - [ ] Install Atom text editor
-- [ ] Bring a list of personal goals and potential specialization areas
+- [ ] Start imagining how you could integrate DS into your teaching and research
+- [ ] Bring a list of skills you'd like to build, potential specialization areas, and goals

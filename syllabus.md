@@ -6,14 +6,12 @@ title: syllabus dsgf 2019-20
 # Schedule Fall 2019
 
 Thursdays 10:00 AM - 12:00 PM
-Digital Media Lab
+Digital Media & Collaboration Lab
 
 ## October 24 - [Introductions](/10-24-intro.md)
 
-1. Intro & ice-breaker
-2. Logistics and expectations for the fellowship program
-3. Schedule
-4. Goals - hopes, worries, SMART goals
+1. Introductions
+2. Fellowship logistics and syllabus
 5. Introduction to Digital Scholarship
 
 ## November 7 - Command line
