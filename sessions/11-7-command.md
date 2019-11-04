@@ -14,7 +14,7 @@ Note-taker:
 - January showcase dates?
 - Markdown for meeting notes
 
-[<<< Previous](/sessions/10-24-intro.md) [Next >>>]()
+[<<< Previous](/10-24-intro.md) [Next >>>]()
 
 [Return to syllabus](/syllabus.md)
 
