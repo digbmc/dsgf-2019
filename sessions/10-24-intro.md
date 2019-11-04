@@ -47,7 +47,7 @@ What is digital scholarship? [slides](http://bit.ly/dsgf-2019)
 - [ ] Start imagining how you could integrate DS into your teaching and research
 - [ ] Bring a list of skills you'd like to build, potential specialization areas, and goals
 
-[Next session>>>](/11-7-command.md)
+[Next >>>](/sessions/11-7-command.md)
 
 [Return to syllabus](/syllabus.md)
 
