@@ -48,3 +48,5 @@ What is digital scholarship? [slides](http://bit.ly/dsgf-2019)
 - [ ] Bring a list of skills you'd like to build, potential specialization areas, and goals
 
 [Return to syllabus](/syllabus.md)
+
+[Home](/README.md)
