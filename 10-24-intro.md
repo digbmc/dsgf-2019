@@ -19,7 +19,11 @@ Alice McGrath, Digital Scholarship Specialist
 - Reviewing [Logistics and expectations](/expectations.md) for the fellowship program
 - Reviewing the [syllabus schedule](/syllabus.md)
   - Scheduling conflicts?
+    - **December 19** - reschedule session?
   - Interests, ideas, preferences?
+    - Data management & data visualization
+    - GIS & mapping --> heat Mapping. ArcGIS and QGIS. Potentially 2 sessions
+    - Coding! Python and potentially Java?     
 - Setting SMART goals:
   - Specific
   - Measurable
@@ -30,6 +34,8 @@ Alice McGrath, Digital Scholarship Specialist
 ### Digital Scholarship
 
 BMC [Digital Competencies Framework](https://www.brynmawr.edu/digitalcompetencies)
+- Vocabulary to use when thinking about digital skill-building and the undergraduate curriculum
+- Generally useful (e.g. 'digital survival skills')
 
 What is digital scholarship? [slides](http://bit.ly/dsgf-2019)
 
@@ -40,3 +46,5 @@ What is digital scholarship? [slides](http://bit.ly/dsgf-2019)
 - [ ] Install Atom text editor
 - [ ] Start imagining how you could integrate DS into your teaching and research
 - [ ] Bring a list of skills you'd like to build, potential specialization areas, and goals
+
+[Return to syllabus](/syllabus.md)

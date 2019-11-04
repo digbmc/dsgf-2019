@@ -14,25 +14,26 @@ Digital Media & Collaboration Lab
 2. Fellowship logistics and syllabus
 5. Introduction to Digital Scholarship
 
-## November 7 - Command line
+## November 7 - [Command line & computational thinking](/11-7-command.md)
+
 
 ## November 21 - DS in your discipline
 
 ## December 5 - html/css/domains
 Dr. Alicia Peaker, Director of DSCMDCM
 
-## December 19 - Git & GitHub
+## December 19 - Git, GitHub, and markdown
 
 ## TBD: Showcase
 
 # Spring 2020
 Note: dates and meeting times may change
 
-## January 23 - Digital Pedagogy
+## January 23 - Digital pedagogy
 
 ## February 6 - Project management
 
-## February 20 - TBA
+## February 20 - GIS
 
 ## March 5 - TBA
 
@@ -47,6 +48,7 @@ Note: dates and meeting times may change
 Options:
 - Data management
 - Digital archives and exhibitions
-- GIS
+- Advanced GIS
 - Machine learning
+- Text analysis
 - 3D/immersive digital scholarship
