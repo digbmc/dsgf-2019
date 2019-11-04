@@ -4,4 +4,4 @@ This repository contains files and information for participants in the 2019-2020
 
 [Syllabus](/syllabus.md)
 
-[Expectations](/expectations)
+[Expectations](/expectations.md)

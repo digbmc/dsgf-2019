@@ -8,13 +8,13 @@ title: syllabus dsgf 2019-20
 Thursdays 10:00 AM - 12:00 PM
 Digital Media & Collaboration Lab
 
-## October 24 - [Introductions](/10-24-intro.md)
+## October 24 - [Introductions](/sessions/10-24-intro.md)
 
 1. Introductions
 2. Fellowship logistics and syllabus
 5. Introduction to Digital Scholarship
 
-## November 7 - [Command line & computational thinking](/11-7-command.md)
+## November 7 - [Command line & computational thinking](/sessions/11-7-command.md)
 
 
 ## November 21 - DS in your discipline
