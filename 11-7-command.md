@@ -7,3 +7,9 @@
 3. Command line workshop
 
 ## Meeting notes
+
+
+
+[Return to syllabus](/syllabus.md)
+
+[Home](/README.md)
