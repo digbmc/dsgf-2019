@@ -16,7 +16,7 @@ Note-taker:
 - Python community of learning
   - Off Thursdays 10-11 or 12
   - Coordinator for spring semester?
-- [Book Traces project presentation](https://www.brynmawr.edu/events/book-traces-digital-research-history-reading) - Monday, 4:30-6:00 PM
+- [Book Traces project presentation](https://www.brynmawr.edu/events/book-traces-digital-research-history-reading) - Monday, 4:30-6:00 PM, Special Collections Seminar Room
 
 ### Discussion
 
