@@ -10,9 +10,22 @@
 Note-taker:
 
 ### Business
-- Rescheduling 12/19: choose date
+- Rescheduling 12/19: choose date? Tuesday 12/17?
 - January showcase dates?
-- Markdown for meeting notes
+- Markdown basics for meeting notes
+- Python community of learning
+  - Off Thursdays 10-11 or 12
+  - Coordinator for spring semester?
+- [Book Traces project presentation](https://www.brynmawr.edu/events/book-traces-digital-research-history-reading) - Monday, 4:30-6:00 PM
+
+### Discussion
+
+### Command line workshop
+- Installations: 
+  - [Xcode/git](https://github.com/tri-cods/install/blob/master/sections/git.md)
+  - [Atom](https://github.com/tri-cods/install/blob/master/sections/atom.md)
+- [Tutorial](https://github.com/tri-cods/command-line) from 2019 Tri-Co DSRI
+
 
 [<<< Previous](/sessions/10-24-intro.md) | Next >>>
 
