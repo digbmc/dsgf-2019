@@ -1,15 +1,18 @@
 # November 7 - The command line & computational thinking
 
 ## Agenda
-1. Business
+1. [Business](#business)
 2. Setting [goals](/goals.md)
-3. Discussion of videos
-3. Command line workshop
+3. [Discussion of videos](#discussion)
+3. [Command line workshop](#command-line)
+4. [For next time](#for-next-time)
 
 ## Meeting notes
 Note-taker:
 
 ### Business
+- GitHub usernames
+- Updates for next time
 - Rescheduling 12/19: choose date? Tuesday 12/17?
 - January showcase dates?
 - Note-taking logistics: markdown & github
@@ -20,7 +23,7 @@ Note-taker:
 
 ### Discussion
 
-### Command line workshop
+### Command line
 - Installations:
   - [Xcode/git](https://github.com/tri-cods/install/blob/master/sections/git.md)
   - [Atom](https://github.com/tri-cods/install/blob/master/sections/atom.md)
