@@ -40,7 +40,8 @@ Note-taker: Andrea
   - How to describe a project and learn what specific skills you need to learn how to do that
   - Next time: come up with more specific goals and a step-by-step plan to get there (e.g., tutorials), edit the fall 2019 goals.  Can also add workshop ideas and include initials. 
 - Code.org videos 
-  - Helpful introduction to how computers work, simplicity but complexity of the systems!  History of computer construction, Penn early computer model, similarities of binary system and written language - computational language and written languages are more similar than we think (patterns), computers are only as powerful as we make them - people tell computers what to do, AI, biases in programs exist because people write programs (master/servant, male/female vocabulary built into programming language and computer terminology)
+  - Helpful introduction to how computers work, simplicity but complexity of the systems!  
+  - History of computer construction, Penn early computer model, similarities of binary system and written language - computational language and written languages are more similar than we think (patterns), computers are only as powerful as we make them - people tell computers what to do, AI, biases in programs exist because people write programs (master/servant, male/female vocabulary built into programming language and computer terminology)
 
 
 
