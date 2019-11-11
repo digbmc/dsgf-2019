@@ -17,12 +17,18 @@ Digital Media & Collaboration Lab
 ## November 7 - [Command line & computational thinking](/sessions/11-7-command.md)
 
 
-## November 21 - DS in your discipline
+## November 21 - [DS in the disciplines](/sessions/11-21-disciplines.md)
+**NB**: Alice has a meeting 11-12
+
+10-10:50 full team
+
+11:00 - 12:00 groups based on discipline
 
 ## December 5 - html/css/domains
-Dr. Alicia Peaker, Director of DSCMDCM
+Session led by Dr. Alicia Peaker, Director of DSCMDCM
 
-## December 19 - Git, GitHub, and markdown
+## December 17 - Git, GitHub, and markdown
+**NB**: meeting on Tuesday instead of Thursday
 
 ## TBD: Showcase
 
@@ -32,6 +38,7 @@ Note: dates and meeting times may change
 ## January 23 - Digital pedagogy
 
 ## February 6 - Project management
+Led by Melissa Cresswell, Director of Client Engagement & Planning
 
 ## February 20 - GIS
 
