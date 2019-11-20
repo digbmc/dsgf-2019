@@ -24,7 +24,7 @@ Digital Media & Collaboration Lab
 
 11:00 - 12:00 groups based on discipline
 
-## December 5 - html/css/domains
+## December 5 - [Web publishing using html and css](/sessions/12-5-html.md)
 Session led by Dr. Alicia Peaker, Director of DSCMDCM
 
 ## December 17 - Git, GitHub, and markdown
