@@ -49,7 +49,10 @@
   
   - A Companion to Digital Humanities, edited by Susan Schreibman, Ray Siemens, John Unsworth, 2004: http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-2&toc.id=0&brand=9781405103213_brand
   
-  - AAR Research Databases/Digital Collections: https://www.aarome.org/research/resources/periodical-indexes
+  - American Academy in Rome: 
+     - Research Databases/Digital Collections: https://www.aarome.org/research/resources/periodical-indexes
+     - Maps and GIS: https://www.aarome.org/research/resources/maps-gis 
+     
  
 # Associations/Organizations
 
