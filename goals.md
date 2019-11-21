@@ -21,6 +21,15 @@
 
 ### Katie
 
+My overall goals for the following months include:
+
+1. Become more familiar with sites and programs such as: ArcGIS, ArcMap, SketchFab, etc. (watch tutorials, etc.)
+2. Think about potential workshops that relate to these programs and 3D modeling (3D scanning nad photogrammetry)
+3. Talk to my digital archaeology professor about using our class data and syllabus for a more condensed workshop version.
+4. Redesign my "Digital Files Database" spreadsheet that I made for my digital archaology class and share it with everyone
+5. Learn about digitial pedogogy and what that entails and how I can integrate the theories/approaches in future TA and teaching roles
+
+
 ### Molly
 
 ### RJ
