@@ -73,7 +73,7 @@ In two groups, discuss and begin compiling resources for practitioners of Digita
 [Archaeology](/resources/archaeology.md)
 
 ### For next time
-- [ ] Sign up for a Domain of One's Own account at [digital.brynmawr.edu]
+- [ ] Sign up for a Domain of One's Own account at digital.brynmawr.edu
 - [ ] Watch all 8 [How The Internet Works videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 - [ ] Presentation topics and Spring workshops
 
