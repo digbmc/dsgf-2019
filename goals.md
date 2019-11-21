@@ -5,6 +5,13 @@
 ## Individual
 
 ### Andrea
+1. Read Ch 2: Computing for Archaeologists and Ch 15: Databases in “A Companion to Digital Humanities,” 2004
+2. Research Google Earth Enterprise (e.g., GitHUb page), learn what tools I need to use it and whether it’s the best platform for my research and goals
+3. Research other database platforms with mapping components
+4. Think of possible undergrad workshops in mapping
+5. Reacquaint myself with ArcGIS - watch tutorials
+6. Learn more about the Votive Project and figure out how to become part of their community
+7. Look at Sarah Bond’s digital mapping tutorials
 
 ### Devin
 
