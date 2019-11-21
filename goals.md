@@ -25,6 +25,21 @@
 
 ### RJ
 
+General areas and specific tools
+1. Data management
+    a. R
+2. Text analysis
+    a. Python
+    b. Classical Languages Toolkit
+3. Visualizing data
+    a. Python
+    b. Leaflet (perhaps)
+
+Possible applications 
+1. Use data management to better store and organize my current research archives (esp. my dissertation archive)
+2. Use text analysis to analyze the phonetic patterns of greek Hymns (esp. the voces magicae in the Greek magical papyri, for an article I am preparing).
+3. Possible project: use data management and data visualization tools in order to create a webmapped database of the community of extant or non-extant ancient authors - sortable by their dates, where they worked, travelled, and were born as well as by their genres, and whatever else identifying marker might be found useful for scholars. This could ultimately be used to map intellectual networks which might otherwise be obscured by the shadow cast by the modern canon of ancient authors.  (I looked around a bit and found a similar project called the ‘Mapping the Republic of Letters’ at Stanford.)
+
 ## Workshop ideas
 
 
