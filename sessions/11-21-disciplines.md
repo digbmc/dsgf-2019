@@ -29,13 +29,42 @@
 
 8/20 - I read the requisite articles for the meeting and explored some of the tools mentioned. I also looked at Hestia - a Herodotus project - which seemed like a successful DH project. I also checked out the Stanford literary lab. 
 
+
 ## Meeting notes
 
 Note-taker: Devin
 
+If you have any questions/concerns about setting goals (or in general!), set up an appointment with Alice (calendly.com/amcgrath1)
+
+### Updates
+
+1. Andrea - BookTraces presentation
+2. Devin - Python stuff
+3. Molly - possible projects and tools (difficult to do)
+4. RJ - command line and Python
+5. Katie - creating a document for digital archaeology resources. Has been working on 3D scanning and mapping in Digital Archaeology course - would be interested in doing a workshop on this! Would like to create a databse of the files that she is using for this and would like to share that with us.
+
+
 ### Goals
 
+
 ### Discussion
+
+Many projects have been abandoned and it can be difficult to determine whether or not they are still active. Often projects that have institutional backing tend to survive, although there are exceptions. Successful projects often have a large community built up around them. Many times projects are abanadoned due to costs. Digital projects also tend not to fit into the "innovation" model of research (focus is more on continuation, rather than new discoveries) and rely on staff members for upkeep. Furthermore, digital humanities journals still follow regular academic publishing schedules, which can create long wait times. Somtimes, digital projects are preserved (for example, a complex mapping digital project could be preserved in a video). "Bounded" files are easier to preserve than more complex, interactive projects.  
+
+Maybe do some work with JavaScript - creates interactibility on websites, easy language to learn (https://programminghistorian.org/).
+
+Open source is VERY important. Many recent articles have criticized TLG, for example (made a database and then charge hefty subscription fees).
+
+Projects are very disparate and there is not an overarching structure.
+
+Linked Open Data - different fields have diffferent ways of encoding date. If they could talk to each other, it would make it easier to standerdize how the data is encoded.
+
+Some digital projects 
+
+BookTraces Project - looking at 19th century books donated to libraries for reader interventions. Data collection was yes intervention or no intervention, but they made a graph showing the different types of interventions. If they want to go back and look at these different kinds of interventions, they will have to recomb through their data. This is because of the sheer scale needed to categorize interventions. Sometimes projects are started with specific disciplinary questions that means that the project must evolve as they are scaled up.
+
+
 
 ### Group work
 In two groups, discuss and begin compiling resources for practitioners of Digital Scholarship in your discipline. Have one person add these notes to the relevant document:
@@ -45,7 +74,7 @@ In two groups, discuss and begin compiling resources for practitioners of Digita
 [Archaeology](/resources/archaeology.md)
 
 ### For next time
-- [ ] Sign up for a Domain of One's Own account at digital.brynmawr.edu
+- [ ] Sign up for a Domain of One's Own account at [digital.brynmawr.edu]
 - [ ] Watch all 8 [How The Internet Works videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 - [ ] Presentation topics and Spring workshops
 
