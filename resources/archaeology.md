@@ -55,6 +55,8 @@ This is a resource for archaeology students interested in digital archaeology an
    
        - Research Databases/Digital Collections: https://www.aarome.org/research/resources/periodical-indexes
        - Maps and GIS: https://www.aarome.org/research/resources/maps-gis 
+       - Online Catalogs: https://www.aarome.org/research/resources/online-catalogs
+       - Digital Humanities Center: http://dhc.aarome.org/
      
  
 ## Associations/Organizations
