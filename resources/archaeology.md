@@ -1,6 +1,8 @@
-### Archaeology Digital Resources
+# Digital Archaeology Resources
 
-# Journals:
+This is a resource for archaeology students interested in digital archaeology and archaeology within digital humanities. This document includes links to Journals, Awards and Fellowshop oppuntities, Conferences, Online Archives and Databases, as well as other programs, tools, and resources one may need to become more involved in these communities. 
+
+## Journals:
 
   - Internet Archaeology -- https://intarch.ac.uk/
   
@@ -11,15 +13,15 @@
   - Advances in Archaeological Practice -- https://www.cambridge.org/core/journals/advances-in-archaeological-practice 
 
 
-# Awards/Fellowships:
+## Awards/Fellowships:
 
  - Award for Outstanding Work in Digital Archaeology -- https://www.archaeological.org/grant/digital-archaeology-award/
 
-# Conferences:
+## Conferences:
 
   - Computer Applications and Quantitative Methods in Archaeology (CAA) international conference -- https://2020.caaconference.org/
 
-# Digital Archives/Databases for Archaeology:
+## Digital Archives/Databases for Archaeology:
 
   - tDAR -- https://www.tdar.org/about/
   
@@ -27,7 +29,7 @@
   
   - Archaeological Data Service -- https://archaeologydataservice.ac.uk/
  
-# Tools/Programs/Resources:
+## Tools/Programs/Resources:
 
   - ArcGIS
   
@@ -54,7 +56,7 @@
      - Maps and GIS: https://www.aarome.org/research/resources/maps-gis 
      
  
-# Associations/Organizations
+## Associations/Organizations
 
  - The Institute for Digital Archaeology -- http://digitalarchaeology.org.uk/our-purpose  
 
