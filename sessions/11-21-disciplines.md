@@ -15,6 +15,20 @@
 
 3. Molly: I have been reading through various archives of current and past projects in digital humanities, trying to identify what tools they have used, and what has been accomplished. I have found a few promising projects in various stages of completion or abandonment, and I still am not entirely sure if I have been looking in the right places. I hope to discuss my findings this week and focus these thoughts further, and then decide what steps are necessary to do what I would like to do. 
 
+4. RJ: 
+
+8/7 - Completed the lesson for the day and ran through the commands once more
+
+8/8 - As I sadly watched the Sixers lose to the Nuggets, I buoyed my spirits by playing through the ‘Terminus’ game. It’s fun, short, addicting, and helpful in cementing some of the more basic commands.
+
+8/9 - I poked around the Classical Languages Toolkit site and realized just how much I want to learn Python.
+
+8/14 - Python tutorial. 
+
+8/18 - I read through Programming Historian’s bash command tutorial.
+
+8/20 - I read the requisite articles for the meeting and explored some of the tools mentioned. I also looked at Hestia - a Herodotus project - which seemed like a successful DH project. I also checked out the Stanford literary lab. 
+
 ## Meeting notes
 
 Note-taker: Devin
