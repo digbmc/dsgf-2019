@@ -60,7 +60,6 @@ Projects are very disparate and there is not an overarching structure.
 
 Linked Open Data - different fields have diffferent ways of encoding date. If they could talk to each other, it would make it easier to standerdize how the data is encoded.
 
-Some digital projects 
 
 BookTraces Project - looking at 19th century books donated to libraries for reader interventions. Data collection was yes intervention or no intervention, but they made a graph showing the different types of interventions. If they want to go back and look at these different kinds of interventions, they will have to recomb through their data. This is because of the sheer scale needed to categorize interventions. Sometimes projects are started with specific disciplinary questions that means that the project must evolve as they are scaled up.
 
