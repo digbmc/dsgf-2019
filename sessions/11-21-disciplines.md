@@ -29,7 +29,7 @@
 
 8/20 - I read the requisite articles for the meeting and explored some of the tools mentioned. I also looked at Hestia - a Herodotus project - which seemed like a successful DH project. I also checked out the Stanford literary lab.
 
-Katie. I have been reading about digital archaoelogy methods (and interesting lack of theory) and how it has impacted and changed archaeological thoguht and practice. It definitely affected the way that I have researched projects and resources in archaeology. I tried to avoid looking at things through a "digital humanities" lens and instead through a "digital archaeology" and "geophysical archaeology" lens. I have also been working with 3D scanning and photogrammetry in my Intro to Digital Archaeology course and am thinking in potential workshops related to that for the spring. 
+5. Katie. I have been reading about digital archaoelogy methods (and interesting lack of theory) and how it has impacted and changed archaeological thoguht and practice. It definitely affected the way that I have researched projects and resources in archaeology. I tried to avoid looking at things through a "digital humanities" lens and instead through a "digital archaeology" and "geophysical archaeology" lens. I have also been working with 3D scanning and photogrammetry in my Intro to Digital Archaeology course and am thinking in potential workshops related to that for the spring. 
 
 
 ## Meeting notes
