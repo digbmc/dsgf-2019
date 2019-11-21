@@ -23,6 +23,7 @@
 4.	http://wiki.digitalclassicist.org/index.php?title=Category:Projects&pageuntil=Fasti+Online#mw-pages
 5.	https://www.sacred-texts.com/
 6.	http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/
+7. https://www.aarome.org/research/resources/periodical-indexes
 
 ### Educational Resources:
 1.	https://www.minitex.umn.edu/CatMeta/Standards/LinkedData.aspx (linked data)
