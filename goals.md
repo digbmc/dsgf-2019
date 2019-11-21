@@ -11,7 +11,8 @@
 4. Think of possible undergrad workshops in mapping
 5. Reacquaint myself with ArcGIS - watch tutorials
 6. Learn more about the Votive Project and figure out how to become part of their community
-7. Look at Sarah Bond’s digital mapping tutorials
+7. Learn more about the UNSALA (Unlocking Sacred Landscapes) and figure out how to become part of their community
+8. Look at Sarah Bond’s digital mapping tutorials
 
 ### Devin
 
