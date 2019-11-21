@@ -5,6 +5,8 @@
 
 ## Updates
 
+Katie. Signed up for a Domain of Your Own, on 11/21. kbreyer.digital.brynmawr.edu
+
 ## Meeting notes
 Note-taker: Katie
 
