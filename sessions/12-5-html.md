@@ -5,7 +5,7 @@
 
 ## Updates
 
-Katie. Signed up for a Domain of Your Own, on 11/21. kbreyer.digital.brynmawr.edu
+Katie. Signed up for a Domain of Your Own, on 11/21. kbreyer.digital.brynmawr.edu. On Friday 11/22, I went to the talk about making a Makerspace at Bryn Mawr College with Yusi.
 
 ## Meeting notes
 Note-taker: Katie
