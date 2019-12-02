@@ -29,8 +29,14 @@ My overall goals for the following months include:
 4. Redesign my "Digital Files Database" spreadsheet that I made for my digital archaology class and share it with everyone
 5. Learn about digitial pedogogy and what that entails and how I can integrate the theories/approaches in future TA and teaching roles
 
-
 ### Molly
+Goals: 
+  1. Become acquainted with the world of CS and Digital Humanities.
+  2. Identify the skillset I would need to attempt the type of projects I have in mind.
+  3. Having identified that I would need skills in Python, JavaScript and Leaflet GIS I will:
+      A. Complete "Python Programming for the Humanities" and attend the biweekly meetings to learn Python.
+      B. Complete "The Programming Historian"'s guide to mapping with Python and Leaflet.
+      C. Identify a course to learn JavaScript and work through at least half of it.
 
 ### RJ
 
