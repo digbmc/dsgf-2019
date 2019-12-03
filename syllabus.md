@@ -27,8 +27,12 @@ Digital Media & Collaboration Lab
 ## December 5 - [Web publishing using html and css](/sessions/12-5-html.md)
 Session led by Dr. Alicia Peaker, Director of DSCMDCM
 
-## December 17 - Git, GitHub, and markdown
+Note-taker: Katie
+
+## December 17 - [Git, GitHub, and markdown](/sessions/11-21-git.md)
 **NB**: meeting on Tuesday instead of Thursday
+
+Note-taker: Molly
 
 ## TBD: Showcase
 
@@ -36,9 +40,12 @@ Session led by Dr. Alicia Peaker, Director of DSCMDCM
 Note: dates and meeting times may change
 
 ## January 23 - Digital pedagogy
+Note-taker: RJ
 
 ## February 6 - Project management
 Led by Melissa Cresswell, Director of Client Engagement & Planning
+
+Note-taker: Andrea
 
 ## February 20 - GIS
 

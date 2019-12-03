@@ -10,12 +10,12 @@
 ## Updates
 1. Book Traces presentation, Nov. 11 (Andrea):
   Looking at pre-1923 books that were donated to colleges and are still in circulation (not in special collections) to study marginalia, insertions, dedications, and other additions to the text before the books were donated to the college.  Goal to study reader interaction and readerly practices with the books in the 19th century in select university libraries and show that these books are unique artifacts and not simply “duplicates” that can be removed from the library collection.  Their project creates a list of books in the library that fit their criteria, sends students to look through those books for reader interventions, then take photos of the interventions through an app.  The app incorporates information from a spreadsheet that functions as a checklist, then uploads photos of the interventions to a Google Drive.  The dataset is a collection of photos that must be studied and a list of which books do/do not have reader interventions, but not what those interventions are.  Discussed more meaningful ways to develop the app (putting more information in the data collection interface) and what the researchers want to do with the data once acquired, which will impact the data collection methodology.  Also discussed the possibilities of sharing this information with libraries and what that would look like.
-  
+
 2. Devin: After last week's session of the Python Community of Learners, I went back and looked at some Python projects that I did in undergrad to brush up on some more Python skills. I also looked through some textbooks on R that I might use this semester, as well as did some research into tutorials for learning how to use the Classical Studies Toolkit, which are both part of my goals for this semester. Finally, I did some research on and worked with some Classics Digital Humanities platforms that I'm familiar with (specifically the Tesserae project) to get a feel with what some of these projects look and feel like.
 
-3. Molly: I have been reading through various archives of current and past projects in digital humanities, trying to identify what tools they have used, and what has been accomplished. I have found a few promising projects in various stages of completion or abandonment, and I still am not entirely sure if I have been looking in the right places. I hope to discuss my findings this week and focus these thoughts further, and then decide what steps are necessary to do what I would like to do. 
+3. Molly: I have been reading through various archives of current and past projects in digital humanities, trying to identify what tools they have used, and what has been accomplished. I have found a few promising projects in various stages of completion or abandonment, and I still am not entirely sure if I have been looking in the right places. I hope to discuss my findings this week and focus these thoughts further, and then decide what steps are necessary to do what I would like to do.
 
-4. RJ: 
+4. RJ:
 
 8/7 - Completed the lesson for the day and ran through the commands once more
 
@@ -23,20 +23,20 @@
 
 8/9 - I poked around the Classical Languages Toolkit site and realized just how much I want to learn Python.
 
-8/14 - Python tutorial. 
+8/14 - Python tutorial.
 
 8/18 - I read through Programming Historian’s bash command tutorial.
 
 8/20 - I read the requisite articles for the meeting and explored some of the tools mentioned. I also looked at Hestia - a Herodotus project - which seemed like a successful DH project. I also checked out the Stanford literary lab.
 
-5. Katie. I have been reading about digital archaoelogy methods (and interesting lack of theory) and how it has impacted and changed archaeological thoguht and practice. It definitely affected the way that I have researched projects and resources in archaeology. I tried to avoid looking at things through a "digital humanities" lens and instead through a "digital archaeology" and "geophysical archaeology" lens. I have also been working with 3D scanning and photogrammetry in my Intro to Digital Archaeology course and am thinking in potential workshops related to that for the spring. 
+5. Katie. I have been reading about digital archaoelogy methods (and interesting lack of theory) and how it has impacted and changed archaeological thoguht and practice. It definitely affected the way that I have researched projects and resources in archaeology. I tried to avoid looking at things through a "digital humanities" lens and instead through a "digital archaeology" and "geophysical archaeology" lens. I have also been working with 3D scanning and photogrammetry in my Intro to Digital Archaeology course and am thinking in potential workshops related to that for the spring.
 
 
 ## Meeting notes
 
 Note-taker: Devin
 
-If you have any questions/concerns about setting goals (or in general!), set up an appointment with Alice (calendly.com/amcgrath1)
+If you have any questions/concerns about setting goals (or in general!), [set up an appointment with Alice](calendly.com/amcgrath1)
 
 ### Updates
 
@@ -44,7 +44,7 @@ If you have any questions/concerns about setting goals (or in general!), set up 
 2. Devin - Python stuff
 3. Molly - possible projects and tools (difficult to do)
 4. RJ - command line and Python
-5. Katie - creating a document for digital archaeology resources. Has been working on 3D scanning and mapping in Digital Archaeology course - would be interested in doing a workshop on this! Would like to create a databse of the files that she is using for this and would like to share that with us.
+5. Katie - creating a document for digital archaeology resources. Has been working on 3D scanning and mapping in Digital Archaeology course - would be interested in doing a workshop on this! Would like to create a database of the files that she is using for this and would like to share that with us.
 
 
 ### Goals
@@ -70,14 +70,20 @@ BookTraces Project - looking at 19th century books donated to libraries for read
 ### Group work
 In two groups, discuss and begin compiling resources for practitioners of Digital Scholarship in your discipline. Have one person add these notes to the relevant document:
 
-[Classics](/resources/classics.md)
-
 [Archaeology](/resources/archaeology.md)
 
-### For next time
-- [ ] Sign up for a Domain of One's Own account at digital.brynmawr.edu
-- [ ] Watch all 8 [How The Internet Works videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+[Classics](/resources/classics.md)
+
+
+
+## For next time
+- [ ] Sign up for a Domain of One's Own account at [digital.brynmawr.edu](https://digital.brynmawr.edu/)
+- [ ] Watch all 8 videos in the [How The Internet Works series](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 - [ ] Presentation topics and Spring workshops
+- [ ] Proofread your [Bio on the DS site](http://digitalscholarship.blogs.brynmawr.edu/people/) & let Alice know about any changes
+- [ ] Review both documents your cohort created: [Archaeology](/resources/archaeology.md) and [Classics](/resources/classics.md).
+
+
 
 
 [<<< Previous](/sessions/11-7-command.md) | [Next >>>](/sessions/12-5-html.md)
