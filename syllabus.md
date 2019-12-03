@@ -29,7 +29,7 @@ Session led by Dr. Alicia Peaker, Director of DSCMDCM
 
 Note-taker: Katie
 
-## December 17 - [Git, GitHub, and markdown](/sessions/11-21-git.md)
+## December 17 - [Git, GitHub, and markdown](/sessions/12-17-git.md)
 **NB**: meeting on Tuesday instead of Thursday
 
 Note-taker: Molly
