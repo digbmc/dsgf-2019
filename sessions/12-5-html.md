@@ -2,7 +2,7 @@
 
 ## Agenda
 1. Updates and business
-2. Alicia Peaker: workshop on html and css
+2. Alicia Peaker: [workshop on html and css](#meeting-notes)
 3. [For next time](#for-next-time)
 
 ## Updates
@@ -24,12 +24,15 @@ Note-taker: Katie
 
 ## Business
 - Dates for showcase
-- Questionnaire about roles
+- Choosing roles for next semester
+  - Meet with Alice: Office hours Fridays 10-12 or [schedule an appointment](https://calendly.com/amcgrath1/30min)
 - Python group: 12-1 on Thursday, December 12?
 
 ### For next time
 - [ ] Domain of One's Own
 - [ ] Presentation proposal
+- [ ] [Meet with Alice](https://calendly.com/amcgrath1/30min) to discuss roles and responsibilities for next semester
+- [ ] Learn Markdown syntax and use it for your updates, which you'll add to [this document](/updates.md) instead of the meeting notes. 
 
 [<<< Previous](/sessions/11-21-disciplines.md) | [Next >>>]()
 
