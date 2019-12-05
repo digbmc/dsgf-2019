@@ -17,6 +17,19 @@ RJ: I too poked around the Classical languages toolkit. I still felt a bit out o
 
 ## Meeting notes
 Note-taker: Katie
+ - NOTES: 12/5/19
+    - Alicia is leading majority of session
+    - Announcements:
+      - Reminder to review Bio
+      - creation of one large Resources and Methods Doc
+      - discussion of roles for Spring semester: need to make meeting with Alice
+      - Python Meeting: 12-1 time?
+      - Updates - everyone discussed their updates _ ~10:05am
+  - Alicia's Tutorial on HTML/CSS _ ~10:20am
+    - learn HTML and CSS concepts and syntax
+    - create and style a web page
+    - publish your page to the web
+
 
 [Slides](https://docs.google.com/presentation/d/145fzWCTX0Q_0InsRWzNDUYmjELvEgiaRnHfTKk0fwLk/edit?usp=sharing)
 
