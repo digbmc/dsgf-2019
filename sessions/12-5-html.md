@@ -41,15 +41,13 @@ Note-taker: Katie
 - Python group: 12-1 on Thursday, December 12?
 
 ### For next time
-- [ ] Domain of One's Own
-  - [ ] Upload and publish your site using the File Manager
-  - [ ] *Optional* Create a subdomain or subdirectory and install a web application (like WordPress, Omeka, Grav)
+- [ ] Finish drafting a personal website for your Domain using html and css. Include images, links, etc.
 - [ ] Write up a brief presentation proposal
-- [ ] Learn the basics of [Markdown syntax](https://www.markdownguide.org/cheat-sheet/) 
-- [ ] Use markdown to Add your updates and proposal to [this document](/updates.md) instead of the meeting notes for our next session. 
+- [ ] Learn the basics of [Markdown syntax](https://www.markdownguide.org/cheat-sheet/)
+- [ ] Use markdown to Add your updates and proposal to [this document](/updates.md) instead of the meeting notes for our next session.
 - [ ] [Meet with Alice](https://calendly.com/amcgrath1/30min) to discuss roles and responsibilities for next semester
 
-[<<< Previous](/sessions/11-21-disciplines.md) | [Next >>>]()
+[<<< Previous](/sessions/11-21-disciplines.md) | [Next >>>](/sessions/12-17-git.md)
 
 [Return to syllabus](/syllabus.md)
 
