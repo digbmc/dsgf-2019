@@ -23,16 +23,18 @@ Note-taker: Katie
 [HTML/CSS Cheat Sheet](https://docs.google.com/document/d/1GjgCykzeN6zcBO0gVX0K43ZHYfNn90ePTyGjkIntMLY/edit?usp=sharing)
 
 ## Business
-- Dates for showcase
 - Choosing roles for next semester
   - Meet with Alice: Office hours Fridays 10-12 or [schedule an appointment](https://calendly.com/amcgrath1/30min)
 - Python group: 12-1 on Thursday, December 12?
 
 ### For next time
 - [ ] Domain of One's Own
-- [ ] Presentation proposal
+  - [ ] Upload and publish your site using the File Manager
+  - [ ] *Optional* Create a subdomain or subdirectory and install a web application (like WordPress, Omeka, Grav)
+- [ ] Write up a brief presentation proposal
+- [ ] Learn the basics of [Markdown syntax](https://www.markdownguide.org/cheat-sheet/) 
+- [ ] Use markdown to Add your updates and proposal to [this document](/updates.md) instead of the meeting notes for our next session. 
 - [ ] [Meet with Alice](https://calendly.com/amcgrath1/30min) to discuss roles and responsibilities for next semester
-- [ ] Learn Markdown syntax and use it for your updates, which you'll add to [this document](/updates.md) instead of the meeting notes. 
 
 [<<< Previous](/sessions/11-21-disciplines.md) | [Next >>>]()
 
