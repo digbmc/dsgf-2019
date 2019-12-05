@@ -18,6 +18,9 @@ RJ: I too poked around the Classical languages toolkit. I still felt a bit out o
 ## Meeting notes
 Note-taker: Katie
 
+[Slides](https://docs.google.com/presentation/d/145fzWCTX0Q_0InsRWzNDUYmjELvEgiaRnHfTKk0fwLk/edit?usp=sharing)
+[HTML/CSS Cheat Sheet](https://docs.google.com/document/d/1GjgCykzeN6zcBO0gVX0K43ZHYfNn90ePTyGjkIntMLY/edit?usp=sharing)
+
 ## Business
 - Dates for showcase
 - Questionnaire about roles
