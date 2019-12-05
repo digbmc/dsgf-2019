@@ -7,7 +7,7 @@
 
 ## Updates
 
-Katie. Signed up for a Domain of Your Own, on 11/21. kbreyer.digital.brynmawr.edu. On Friday 11/22, I went to the talk about making a Makerspace at Bryn Mawr College with Yusi. I am still not sure what I specifically want to do for m spring workshops, and need to look into tutorials for Quantum GIS, and possibly teaching a workshop about Open Source resources and sites that archaeologists can (and should) use in place of commerical or university sponsored programs.
+Katie. Signed up for a Domain of Your Own, on 11/21. kbreyer.digital.brynmawr.edu. On Friday 11/22, I went to the talk about making a Makerspace at Bryn Mawr College with Yusi. I am still not sure what I specifically want to do for m spring workshops, and need to look into tutorials for Quantum GIS, and possibly teaching a workshop about Open Source resources and sites that archaeologists can (and should) use in place of commerical or university sponsored programs. I plan to do further research into Open Access resources for archaeologists and I think it might be beneficial to have a workshop for archaeology grads and undergrads concerning the topic, the resources, and the debate surrounding the use of Open Access tools v. Commerical/For-Profit tools.
 
 Devin: I began poking around the CLTK tutorials. It ended up being a bit of a nightmare because CLTK doesn't run on Windows, so I spent a lot of time trying to remedy that issue. I'm hoping that since I got all that sorted out, I can begin working with the tutorials in the next few weeks.
 
