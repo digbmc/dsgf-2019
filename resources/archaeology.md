@@ -64,6 +64,8 @@ This is a resource for archaeology students interested in digital archaeology an
        - Maps and GIS: https://www.aarome.org/research/resources/maps-gis 
        - Online Catalogs: https://www.aarome.org/research/resources/online-catalogs
        - Digital Humanities Center: http://dhc.aarome.org/
+       
+   - Brown University Library's Archaeology Resources page: https://libguides.brown.edu/archaeology/home
      
  
 ## Associations/Organizations
