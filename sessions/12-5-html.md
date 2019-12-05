@@ -13,6 +13,8 @@ Devin: I began poking around the CLTK tutorials. It ended up being a bit of a ni
 
 Molly: I met with Alice about potential projects, and identifying what sort of tools I would need to acquire to work on them. I identified some sites that map locations in texts with interactive tools that allow people to experience texts with visual context, and a tool called "Histograph", the code for which is published on github. I have identified some places where I can learn Python and Javascript, updated my goals, and now will start building the skills I need.
 
+RJ: I too poked around the Classical languages toolkit. I still felt a bit out of my depth but I plan to continue reading up on it and Python. I also looked into how best to begin working in R. Again, it looks like I need to better my knowledge of Python before jumping in.
+
 ## Meeting notes
 Note-taker: Katie
 
