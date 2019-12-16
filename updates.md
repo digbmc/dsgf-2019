@@ -7,4 +7,7 @@ Are you about to turn in your final paper or submit an article and your images n
 **Workshop 2: Mapping in practice and final product (ArcGIS and Illustrator)**
 
 Have you created or want to create a map, but don't know how to translate it into a usable image for your paper or article?  *In this workshop students will learn how to create their own maps in ArcGIS and make publication quality scale maps in Illustrator.*  The focus will be on basic skills in ArcGIS such as marking sites and drawing lines and polygons and importing this information into Illustrator to create a map with an accurate scale for papers and publications.  The workshop will take about an hour and require a computer lab with a projection screen and computers equipped with ArcGIS and Illustrator.  By the end of this workshop students will be able to make basic maps to scale for papers and publications.
-	
+
+### Andrea's Updates
+
+- Spent some time looking for information on different databases for my dissertation, such as FileMaker, Microsoft Access, MobiDB, and PostgresSQL.  I'm currently planning to use Filemaker since I'm familiar with it and other BMC archaeology PhD students have used it to make similar catalogs of objects in the past and still recommend it.  
