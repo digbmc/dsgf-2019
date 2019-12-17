@@ -30,3 +30,19 @@ Have you created or want to create a map, but don't know how to translate it int
 
 # RJ's Updates
 > I worked on [classical languages tool kit](http://cltk.org), looked into [zotfile](http://zotfile.com) (for zotero) and Rstudio, and practiced markdown and html/css. I also came across [Palladio](https://hdlab.stanford.edu/palladio/) - an open source program developed by Stanford for mapping social networks across space and time. 
+
+## Katie' Workshop Proposal
+
+- In this workshop, students will be introduced to Quantum GIS (QGIS), a free and open source Geographic Information System platform. A QGIS workshop aims to teach students how to view, to edit, and to analysis geospatial data. The workshop is accessible to students with any type of laptop computer, offering an alternative for those unable to downlaod the popoular ArcGIS software. In the workshop, students will walk through a tutorial of the program with the instructor and produce a final map product. By the end of the workshop students will have gained rudimentary skills and knowledge to begin using QGIS for basic purposes. 
+
+### Katie's Updates
+
+- I have been working on my personal website, which is based off the work I did this semester for my Digital Archaeology course. The site I used needed to be worked in an HTML editor in order to be successful, so I am beginning to feel more comfortable writing in HTML code, but I have not spent much time working with Markdown yet unfortunately. Also, in terms of workshops, I am uncertainw whether I would want to offer two parts to a GQIS workshop, or design my second one to open for other open-access sites. 
+
+
+
+
+
+
+
+
