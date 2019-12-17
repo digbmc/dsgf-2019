@@ -22,7 +22,7 @@ Have you created or want to create a map, but don't know how to translate it int
 ## RJ's workshop ideas
 
 **HTML/CSS**
->an introductory course on HTML/CSS
+>an introductory course on HTML/CSS (and maybe Markdown). We can build a personal site, online cv, annotated bibliography, vel sim..
 
 **classical languages tool kit course (w/Devin)**
 >a peek at the cltk - its history, requirements, various tools, and possible applications.
