@@ -28,13 +28,13 @@ For the relevant commands, see your cheatsheets for [git](https://education.gith
 3. **Add** your document to git's plate so it knows you've made changes (also referred to as "staging" your changes)
 4. **Commit** to the changes you've made (at least for now) and write a brief message about what you changed.
 5. **Pull** in any new changes from the cloud-based or "remote" repository (always do this before you push your changes to a shared repo)
-5. **Push** your changes to the remote repository.
+5. **Push** your changes to the remote repository. You will probably be prompted to log in with your github username and password.
 6. Open the remote in your browser to see what happened.
 
 ### Collaborating
 
 1. **Pull** your teammates' changes. Look at the folder to see what happened.
-2. Choose a new file added by a teammate (make sure nobody else is editing it  for now). Open it in Atom and make some changes to it.
+2. Choose a new file added by a teammate (make sure nobody else is editing it for now). Open it in Atom and make some changes to it.
 3. Check the **status** of your local repo.
 3. **Add** your changes.
 4. **Commit** your changes with a message.
@@ -44,7 +44,7 @@ For the relevant commands, see your cheatsheets for [git](https://education.gith
 
 1. Now things will get more complicated. Create a new **branch** of the repository so your changes won't interfere with anyone else's work.
 3. **Checkout** your new branch (switch to it).
-2. Open the file [collaboration.md](/collaboration.md) in Atom, make some changes, and save the file. **Add** your changes and **commit** them.
+2. Open the file [/sessions/git-practice/collaboration.md](/sessions/git-practice/collaboration.md) in Atom, make some changes, and save the file. **Add** your changes and **commit** them.
 4. **Push** your changes to your personal **branch** (you don't need to pull because nobody else should be working on this branch): git push origin [yourbranch]
 5. Look at the remote in the browser and see if you can figure out where your changes went.  
 6. Once you feel good about the changes you've made on your branch, you can try to **merge** it with the master branch.
