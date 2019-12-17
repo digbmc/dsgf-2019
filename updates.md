@@ -22,14 +22,14 @@ Have you created or want to create a map, but don't know how to translate it int
 ## RJ's workshop ideas
 
 **HTML/CSS**
->an introductory course on HTML/CSS (and maybe Markdown). We can build a personal site, online cv, annotated bibliography, vel sim..
+- an introductory course on HTML/CSS (and maybe Markdown). We can build a personal site, online cv, annotated bibliography, vel sim..
 
 **classical languages tool kit course (w/Devin)**
->a peek at the cltk - its history, requirements, various tools, and possible applications.
+- a peek at the cltk - its history, requirements, various tools, and possible applications.
 
 
 ### RJ's Updates
-> I worked on [classical languages tool kit](http://cltk.org), looked into [zotfile](http://zotfile.com) (for zotero) and Rstudio, and practiced markdown and html/css. I also came across [Palladio](https://hdlab.stanford.edu/palladio/) - an open source program developed by Stanford for mapping social networks across space and time. 
+- I worked on [classical languages tool kit](http://cltk.org), looked into [zotfile](http://zotfile.com) (for zotero) and Rstudio, and practiced markdown and html/css. I also came across [Palladio](https://hdlab.stanford.edu/palladio/) - an open source program developed by Stanford for mapping social networks across space and time. 
 
 ## Katie' Workshop Proposal
 
