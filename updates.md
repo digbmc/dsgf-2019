@@ -10,4 +10,11 @@ Have you created or want to create a map, but don't know how to translate it int
 
 ### Andrea's Updates
 
-- Spent some time looking for information on different databases for my dissertation, such as FileMaker, Microsoft Access, MobiDB, and PostgresSQL.  I'm currently planning to use Filemaker since I'm familiar with it and other BMC archaeology PhD students have used it to make similar catalogs of objects in the past and still recommend it.  
+- Spent some time looking for information on different databases for my dissertation, such as FileMaker, Microsoft Access, MobiDB, and PostgresSQL.  I'm currently planning to use Filemaker since I'm familiar with it and other BMC archaeology PhD students have used it to make similar catalogs of objects in the past and still recommend it. 
+
+## Devin's Workshop Proposals
+*In this workshop, students will learn basic Python skills in order to use the Classical Languages Toolkit (CLTK) and the Natural Language Processing Toolkit (NLTK).* The focus will be to get enough basic knowledge of Python, and then to apply those skills by doing some work with both CLTK and NLTK; for example, importing corpora, text segmentation, tokenizing words, normalizing, getting frequencies, creating visualizing measures, and stopword filtering. This workshop will take several hours and, ideally, the work would be split between at least two people. By the end of this workshop, students will enough knowledge of Python to use CLTK and NLTK, and have worked through the material in the first three CLTK Github tutorials. 
+
+### Devin's Updates
+
+- I spent most of my time trying to get CLTK to work on Windows. I think that I may have found a workaround using Anaconda Prompt, but I am still trying to work out all the details. I am meeting with Alice after our meeting to hopefully figure everything out, which should let me get a start on the tutorials over break.
