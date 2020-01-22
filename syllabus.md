@@ -39,7 +39,7 @@ Note-taker: Molly
 # Spring 2020
 Note: dates and meeting times may change
 
-## January 23 - Digital pedagogy
+## January 23 - [Spring planning & digital pedagogy](/sessions/01-23-spring.md)
 Note-taker: RJ
 
 ## February 6 - Project management
