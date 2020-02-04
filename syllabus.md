@@ -42,27 +42,24 @@ Note: dates and meeting times may change
 ## January 23 - [Spring planning & digital pedagogy](/sessions/01-23-spring.md)
 Note-taker: RJ
 
-## February 6 - Project management
-Led by Melissa Cresswell, Director of Client Engagement & Planning
+## February 6 - [Sustainability & minimal computing](/sessions/02-06-minicomp.md)
 
 Note-taker: Andrea
 
-## February 20 - GIS
+## February 21 - GIS
 
-## March 5 - TBA
+## March 6 - Data
 
-## March 19 - TBA
+## March 20 - TBA
 
-## April 2 - TBA
+## April 3 - TBA
 
-## April 16 - TBA
+## April 17 - TBA
 
 ## April 30
 
 Options:
-- Data management
+- Data: cleaning, management, & visualization
 - Digital archives and exhibitions
-- Advanced GIS
-- Machine learning
 - Text analysis
 - 3D/immersive digital scholarship

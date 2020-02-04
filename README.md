@@ -28,8 +28,10 @@ This repository contains files and information for and by participants in the 20
 
 [November 21 - DS in the disciplines](/sessions/11-21-disciplines.md)
 
-<!---
 [December 5 - Web publishing with html and css](/sessions//sessions/12-5-html.md)
 
 [December 17 - Git, GitHub, and markdown](/sessions/12-17-git.md)
--->
+
+[January 23 - Spring planning & digital pedagogy](/sessions/01-23-spring.md)
+
+[February 6 - Sustainability & minimal computing](/sessions/02-06-minicomp.md)
