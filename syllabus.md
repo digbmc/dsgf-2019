@@ -46,21 +46,24 @@ Note-taker: RJ
 
 Note-taker: Andrea
 
-## February 21 - GIS?
+## February 21 - Geospatial Analysis
+Katie on GIS basics; Andrea on GoogleEarth
 
 ## March 6 - Project Management
 Melissa Cresswell
 
-## March 20 - Digital exhibitions (Alice)
+## March 20 - Digital exhibitions - Alice
 
-## April 3 - Data
+## April 3 - Data - RJ and Molly
+RJ on Data Cleaning; Molly on Data Visualization
 
-## April 17 - Text analysis
+## April 17 - Text analysis (?)
 
-## April 30
+## April 30 - Immersive/3D (?)
 
 Options:
 - Data: cleaning, management, & visualization
 - Digital archives and exhibitions
 - Text analysis
-- 3D/immersive digital scholarship
+- 3D/immersive digital scholarship (Bronwen)
+- Andrea photoshop?
