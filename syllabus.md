@@ -46,15 +46,16 @@ Note-taker: RJ
 
 Note-taker: Andrea
 
-## February 21 - GIS
+## February 21 - GIS?
 
-## March 6 - Data
+## March 6 - Project Management
+Melissa Cresswell
 
-## March 20 - TBA
+## March 20 - Digital exhibitions (Alice)
 
-## April 3 - TBA
+## April 3 - Data
 
-## April 17 - TBA
+## April 17 - Text analysis
 
 ## April 30
 
