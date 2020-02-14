@@ -50,11 +50,11 @@ Changes to [Syllabus](/syllabus.md)
 - A movement by DS people to think about long-term sustainability of text and scholarship (server space, environmental impact), low bandwidth for places with low access to technology (social justice with technology)
 - Plain text as a sustainable practice - loads faster
 - Static vs. dynamic sites
-- Jekyll sites 
+- Jekyll sites
 
 GitHub Pages [documentation](https://guides.github.com/features/pages/)
 
-Test site for [prose.io](http://prose.io/) 
+Test site for [prose.io](http://prose.io/)
 - A content repository, GUI
 - [Live site](https://atmcgrath.github.io/starter/)
 - [On GitHub](https://github.com/atmcgrath/starter)
@@ -68,7 +68,7 @@ Markdown authoring in Pandoc
 - [ ] DS Showcase presentations
 - [ ] Workshop materials to share
 
-[<<< Previous](/sessions/01-23-spring.md) | [Next >>>]()
+[<<< Previous](/sessions/01-23-spring.md) | [Next >>>](/sessions/02-21-gis.md)
 
 [Return to syllabus](/syllabus.md)
 

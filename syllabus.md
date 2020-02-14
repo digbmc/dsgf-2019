@@ -40,30 +40,41 @@ Note-taker: Molly
 Note: dates and meeting times may change
 
 ## January 23 - [Spring planning & digital pedagogy](/sessions/01-23-spring.md)
+
 Note-taker: RJ
 
 ## February 6 - [Sustainability & minimal computing](/sessions/02-06-minicomp.md)
 
 Note-taker: Andrea
 
-## February 21 - Geospatial Analysis
+## February 21 - [Geospatial Analysis](/sessions/02-21-gis)
 Katie on GIS basics; Andrea on GoogleEarth
+
+Note-taker: Devin
 
 ## March 6 - Project Management
 Melissa Cresswell
 
+Note-taker: Katie
+
 ## March 20 - Digital exhibitions - Alice
+
+Note-taker: RJ
 
 ## April 3 - Data - RJ and Molly
 RJ on Data Cleaning; Molly on Data Visualization
 
+Note-taker: Alice
+
 ## April 17 - Text analysis (?)
 
-## April 30 - Immersive/3D (?)
+Note-taker: Molly
+
+## May 1 - Immersive/3D/Making
+Bronwen Densmore (Makerspace Coordinator)
 
 Options:
-- Data: cleaning, management, & visualization
 - Digital archives and exhibitions
 - Text analysis
-- 3D/immersive digital scholarship (Bronwen)
+- Physical computing
 - Andrea photoshop?
