@@ -47,7 +47,7 @@ Note-taker: RJ
 
 Note-taker: Andrea
 
-## February 21 - [Geospatial Analysis](/sessions/02-21-gis)
+## February 21 - [Geospatial Analysis](/sessions/02-21-gis.md)
 Katie on GIS basics; Andrea on GoogleEarth
 
 Note-taker: Devin
@@ -55,18 +55,18 @@ Note-taker: Devin
 ## March 6 - Project Management
 Melissa Cresswell
 
-Note-taker: Katie
-
-## March 20 - Digital exhibitions - Alice
-
 Note-taker: RJ
+
+## March 20 - Text Analysis? 
+
+Note-taker: Katie
 
 ## April 3 - Data - RJ and Molly
 RJ on Data Cleaning; Molly on Data Visualization
 
 Note-taker: Alice
 
-## April 17 - Text analysis (?)
+## April 17 - Digital Exhibitions
 
 Note-taker: Molly
 
