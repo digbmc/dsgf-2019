@@ -25,7 +25,7 @@
 
 <h3>Networking:</h3>
   <ul>
-  <li> SNAPDRGN: <a ref="https://snapdrgn.net/">https://snapdrgn.net/</a><li>
+  <li> SNAPDRGN: <a ref="https://snapdrgn.net/">https://snapdrgn.net/</a></li>
   </ul>
 
 <h3>Databases of Resources:</h3>
