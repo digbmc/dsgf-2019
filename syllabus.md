@@ -52,23 +52,21 @@ Katie on GIS basics; Andrea on GoogleEarth
 
 Note-taker: Devin
 
-## March 6 - Project Management
+## March 6 - ~Project Management~ CANCELLED
 Melissa Cresswell
 
-Note-taker: RJ
-
-## March 20 - Text Analysis? 
+## March 20 - [Remote Learning](/sessions/03-20-remote.md)
 
 Note-taker: Katie
 
 ## April 3 - Data - RJ and Molly
 RJ on Data Cleaning; Molly on Data Visualization
 
-Note-taker: Alice
+Note-taker: Molly
 
 ## April 17 - Digital Exhibitions
 
-Note-taker: Molly
+Note-taker: RJ
 
 ## May 1 - Immersive/3D/Making
 Bronwen Densmore (Makerspace Coordinator)

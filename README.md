@@ -35,3 +35,7 @@ This repository contains files and information for and by participants in the 20
 [January 23 - Spring planning & digital pedagogy](/sessions/01-23-spring.md)
 
 [February 6 - Sustainability & minimal computing](/sessions/02-06-minicomp.md)
+
+[February 21 - Geospatial Analysis](/sessions/02-21-gis.md)
+
+[March 20 - Remote Learning](/sessions/02-21-gis.md)
