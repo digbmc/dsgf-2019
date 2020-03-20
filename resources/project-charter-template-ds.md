@@ -1,7 +1,7 @@
 ---
 title: Digital Scholarship Project Charter Template
 creator: Digital Scholarship at Bryn Mawr College
-last_updated: 17 March 2020 
+last_updated: 17 March 2020
 ---
 
 
@@ -51,7 +51,7 @@ Short summary of the project, including necessary background information.
 ### Milestones
 
 -   Major steps along the way
--   Important dates 
+-   Important dates
 -   Set some deadlines here
 
 | ID   | Task | Time | Dependencies | Due  | Person | Complete |
@@ -63,8 +63,7 @@ Short summary of the project, including necessary background information.
 
 1.  Logistical difficulties you may encounter
 
-2.  Skills you will need to build or areas in which you may need
-    consultation
+2.  Skills you will need to build or areas in which you may need consultation
 
 ## Success criteria
 

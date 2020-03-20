@@ -19,7 +19,7 @@ Note-taker: Katie
 
 ### Pedagogy
 - Opportunities for student learning during social distancing
-- Brainstorming
+- [Brainstorming for remote learning](/planning.md)
 
 
 ### For next time
