@@ -46,7 +46,7 @@ Short summary of the project, including necessary background information.
 
 
 
-##                                                                                                                            Schedule
+## Schedule
 
 ### Milestones
 

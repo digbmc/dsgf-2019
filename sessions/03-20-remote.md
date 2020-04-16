@@ -26,7 +26,7 @@ Note-taker: Katie
 - [ ] Add your updates by Wednesday evening
 
 
-[<<< Previous](/sessions/02-21-gis.md) | [Next >>>]()
+[<<< Previous](/sessions/02-21-gis.md) | [Next >>>](/sessions/04-03-exhibits.md)
 
 [Return to syllabus](/syllabus.md)
 

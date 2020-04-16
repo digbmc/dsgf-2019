@@ -59,12 +59,12 @@ Melissa Cresswell
 
 Note-taker: Katie
 
-## April 3 - Data - RJ and Molly
-RJ on Data Cleaning; Molly on Data Visualization
+## April 3 - Digital Exhibitions
+Alice
 
 Note-taker: Molly
 
-## April 17 - Digital Exhibitions
+## April 17 - Project planning & management
 
 Note-taker: RJ
 
