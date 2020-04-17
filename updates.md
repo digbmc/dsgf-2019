@@ -4,6 +4,11 @@
 
 I have been working on the rather laborious task of creating a corpus for the AntConc workshop. I had initially only planned to use American legal documents, but decided that it would be more interesting to pull in constitutional documents from other countries and time periods. I feel like this would be especially helpful for envisioning how applications like the keyword list works. I was also hoping that it would give students opportunities to work with the material from a variety of angles; for example, by country or by time period. However, AntConc only accepts .txt files, which means that I have to find all the texts I want and then copy and paste them into a .txt file. I also want a large, representative corpus, which means that it's rather boring, tedious work. Thinking about corpus construction is important, though, and I think that it will help me write parts of the workshop, as being able to construct a representative corpus is a valuable skill.
 
+## RJ
+
+I've been working on building a cltk module/updating my old work for the community of learning (which can be found [here](https://github.com/rjbarnesca/Col.cltk/blob/master/syllabus.md)). The tutorials which cltk offers are useful for getting a grip on how to get the tools to work but they don't really provide a clear sense of what type of work the tools can do and how they can be applied to a real project. So, as I've be updating and expanding the cltk tutorials for my module, rather than randomly selecting examples of Latin and Greek and showing how they can be broken down into number, I've been looking for specific examples which showcase the usefulness of certain tools and suggesting possible applications. It's more time consuming, but I think it'll be more rewarding in the end.
+
+
 
 ## Andrea's Workshop Proposals
 
