@@ -1,5 +1,10 @@
 ## Updates April 17, 2020
 
+## Katie
+
+I have been exploring ArcGIS Online, trying to re-work my workshop so that it works for the ArcGIS online set up. It has been slightly confusing, as it seems that the online program does not let you upload JPEGs, which was a huge first step of my original workshop, so now I am trying to design a slightly different workshop module. And so I am also reworking my powerpoint to match the ArcGIS map I am making. 
+
+
 ## Devin
 
 I have been working on the rather laborious task of creating a corpus for the AntConc workshop. I had initially only planned to use American legal documents, but decided that it would be more interesting to pull in constitutional documents from other countries and time periods. I feel like this would be especially helpful for envisioning how applications like the keyword list works. I was also hoping that it would give students opportunities to work with the material from a variety of angles; for example, by country or by time period. However, AntConc only accepts .txt files, which means that I have to find all the texts I want and then copy and paste them into a .txt file. I also want a large, representative corpus, which means that it's rather boring, tedious work. Thinking about corpus construction is important, though, and I think that it will help me write parts of the workshop, as being able to construct a representative corpus is a valuable skill.
