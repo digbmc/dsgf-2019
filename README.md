@@ -39,3 +39,7 @@ This repository contains files and information for and by participants in the 20
 [February 21 - Geospatial Analysis](/sessions/02-21-gis.md)
 
 [March 20 - Remote Learning](/sessions/02-21-gis.md)
+
+[April 3 - Digital Exhibitions](/sessions/04-03-exhibits.md)
+
+[April 17 - Project planning & management](/sessions/04-17-project.md)

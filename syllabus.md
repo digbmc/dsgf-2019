@@ -59,20 +59,14 @@ Melissa Cresswell
 
 Note-taker: Katie
 
-## April 3 - Digital Exhibitions
+## April 3 - [Digital Exhibitions](/sessions/04-03-exhibits.md)
 Alice
 
 Note-taker: Molly
 
-## April 17 - Project planning & management
+## April 17 - [Project planning & management](/sessions/04-17-project.md)
 
 Note-taker: RJ
 
 ## May 1 - Immersive/3D/Making
 Bronwen Densmore (Makerspace Coordinator)
-
-Options:
-- Digital archives and exhibitions
-- Text analysis
-- Physical computing
-- Andrea photoshop?
