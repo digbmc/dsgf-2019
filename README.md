@@ -10,15 +10,6 @@ This repository contains files and information for and by participants in the 20
 
 [Goals](/goals.md)
 
-### Resources (compiled by fellows)  
-
-[Archaeology](/resources/archaeology.md)
-
-[Classics](/resources/classics.md)
-
-<!---
-[Tools for both](/resources/tools.md)
--->
 
 ### Session notes
 
@@ -43,3 +34,22 @@ This repository contains files and information for and by participants in the 20
 [April 3 - Digital Exhibitions](/sessions/04-03-exhibits.md)
 
 [April 17 - Project planning & management](/sessions/04-17-project.md)
+
+
+### Resources (compiled by fellows)  
+
+[Archaeology](/resources/archaeology.md)
+
+[Classics](/resources/classics.md)
+
+<!---
+[Tools for both](/resources/tools.md)
+-->
+
+### Templates
+
+[Project planning questions](/resources/ds-project-planning.md)
+
+[Project charter template](/resources/project-charter-template-ds.md)
+
+[Workshop module template](/resources/workshop-module-template.md)
