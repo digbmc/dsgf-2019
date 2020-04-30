@@ -43,7 +43,7 @@ Note-taker: Name
 - [ ] Short written reflection drafted by May 7
 - [ ] [Meet with Alice one-on-one](calendly.com/amcgrath1)
 
-[<<< Previous](/sessions/04-03-exhibits.md) | [Next >>>]()
+[<<< Previous](/sessions/04-03-exhibits.md) | [Next >>>](/sessions/05-01-making.md)
 
 [Return to syllabus](/syllabus.md)
 

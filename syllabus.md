@@ -68,5 +68,7 @@ Note-taker: Molly
 
 Note-taker: RJ
 
-## May 1 - Immersive/3D/Making
+## May 1 - [Immersive/3D/Making](/sessions/05-01-making.md)
 Bronwen Densmore (Makerspace Coordinator)
+
+## May 15 - Celebration!
