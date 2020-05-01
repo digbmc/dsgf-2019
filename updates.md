@@ -1,3 +1,9 @@
+## Devin (5/1/2020)
+
+Link to Antconc tutorial (Google Docs): https://docs.google.com/document/d/14-WVQ63pUj5aUs-Y9nzJeB6T9Y82nhPXK3LTBmKv5jM/edit?usp=sharing.
+
+P.S. I promise that there are lots of pictures and it is not in fact 50 pages of text.
+
 ## Updates April 17, 2020
 
 ## Katie
